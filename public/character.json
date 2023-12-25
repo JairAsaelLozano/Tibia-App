@@ -1,0 +1,107 @@
+{
+    "character": {
+      "account_badges": [
+        {
+          "description": "string",
+          "icon_url": "string",
+          "name": "string"
+        }
+      ],
+      "account_information": {
+        "created": "string",
+        "loyalty_title": "string",
+        "position": "string"
+      },
+      "achievements": [
+        {
+          "grade": 0,
+          "name": "string",
+          "secret": false
+        }
+      ],
+      "character": {
+        "account_status": "string",
+        "achievement_points": 0,
+        "comment": "string",
+        "deletion_date": "string",
+        "former_names": [
+          "string"
+        ],
+        "former_worlds": [
+          "string"
+        ],
+        "guild": {
+          "name": "string",
+          "rank": "string"
+        },
+        "houses": [
+          {
+            "houseid": 0,
+            "name": "string",
+            "paid": "string",
+            "town": "string"
+          }
+        ],
+        "last_login": "string",
+        "level": 0,
+        "married_to": "string",
+        "name": "string",
+        "position": "string",
+        "residence": "string",
+        "sex": "string",
+        "title": "string",
+        "traded": false,
+        "unlocked_titles": 0,
+        "vocation": "string",
+        "world": "string"
+      },
+      "deaths": [
+        {
+          "assists": [
+            {
+              "name": "string",
+              "player": false,
+              "summon": "string",
+              "traded": false
+            }
+          ],
+          "killers": [
+            {
+              "name": "string",
+              "player": false,
+              "summon": "string",
+              "traded": false
+            }
+          ],
+          "level": 0,
+          "reason": "string",
+          "time": "string"
+        }
+      ],
+      "deaths_truncated": false,
+      "other_characters": [
+        {
+          "deleted": false,
+          "main": false,
+          "name": "string",
+          "position": "string",
+          "status": "string",
+          "traded": false,
+          "world": "string"
+        }
+      ]
+    },
+    "information": {
+      "api": {
+        "commit": "string",
+        "release": "string",
+        "version": 0
+      },
+      "status": {
+        "error": 0,
+        "http_code": 0,
+        "message": "string"
+      },
+      "timestamp": "string"
+    }
+  }
