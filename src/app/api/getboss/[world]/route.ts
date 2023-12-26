@@ -2,14 +2,14 @@ import { NextResponse } from "next/server";
 import {connectDB} from "../../../utils/mongoose";
 import Boss from '../../../models/Boss';
 import Creature from '../../../models/Creature';
-
+// export const runtime = 'edge'; // 'nodejs' is the default
 export async function GET(req,{params}){
     const World =  params.world;
 
     connectDB();
 
     try {
-        const bosses = await Boss.find({ World: World }).select('Boss').sort({ Possibility: -1 });
+      const bosses = await Boss.find({ World: World }, { Boss: { $slice: 10 } }).exec();
         
         const bosssort = bosses[0].Boss;
         bosssort.sort(function (b, a) {

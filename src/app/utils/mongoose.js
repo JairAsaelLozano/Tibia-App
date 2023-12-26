@@ -1,12 +1,11 @@
 import {connect, connection} from 'mongoose'
 
-
 const conn = {
     isConnected :false
 }
 export async function connectDB() {
     if(conn.isConnected) return;
-    const db = await connect('mongodb+srv://Darkeyeking:35652515@tibiapp.oygjtl1.mongodb.net/?retryWrites=true&w=majority');
+    const db = await connect(process.env.MONGODB_URI);
     console.log("bd llamada "+ db.connection.db.databaseName)
     conn.isConnected = db.connections[0].readyState
 }

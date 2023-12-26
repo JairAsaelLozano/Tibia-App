@@ -126,7 +126,7 @@ export default function Home() {
                 <div className="h-50 w-50">
                   {/* Aquí puedes insertar tu imagen */}
                   <p className="text-m text-center text-green-500 font-bold text-gray-500">Boss Busted: </p>
-                  <img src={dailyboss.image_url} alt="Imagen" className="object-cover" />
+                  <img  src={dailyboss.image_url} alt="Imagen" className="object-cover" />
                   <p className="text-m text-center decoration-stone-950 text-gray-500">{dailyboss.name}</p>
                 </div>
                 
@@ -147,7 +147,7 @@ export default function Home() {
                 <div className="h-50 w-50">
                   {/* Aquí puedes insertar tu imagen */}
                   <p className="text-m text-center text-green-500 font-bold text-gray-500">Boss Busted: </p>
-                  <img src={dailyboss.image_url} alt="Imagen" className="object-cover" />
+                  <img  src={dailyboss.image_url} alt="Imagen" className="object-cover" />
                   <p className="text-m text-center decoration-stone-950 text-gray-500">{dailyboss.name}</p>
                 </div>
                 

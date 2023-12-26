@@ -84,7 +84,7 @@ export default function Bosses() {
         bosses.map((boss, index) => (
           <div key={index} className="flex items-center border rounded-lg p-4 shadow-md">
             {/* Contenido de la criatura */}
-            <img src={"https://guildstats.eu/" + boss.Url} alt={boss.name} className="w-20 h-20 object-cover mr-4" />
+            <img  src={"https://guildstats.eu/" + boss.Url} alt={boss.name} className="w-20 h-20 object-cover mr-4" />
             <div className="text-black">
               <h2 className="text-lg font-semibold ">{boss.Name}</h2>
               {boss.Possibility >= 30 ? 
