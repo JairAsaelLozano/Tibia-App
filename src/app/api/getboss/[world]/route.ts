@@ -1,33 +1,54 @@
 import { NextResponse } from "next/server";
-import {connectDB} from "../../../utils/mongoose";
+// import {connectDB} from "../../../utils/mongoose";
 import Boss from '../../../models/Boss';
 import Creature from '../../../models/Creature';
+import {connectDB} from "../../../utils/mongoose";
+import { promisify } from 'util';
+import fs from 'fs';
 // export const runtime = 'edge'; // 'nodejs' is the default
-export async function GET(req,{params}){
-    const World =  params.world;
 
-    connectDB();
+const readFileAsync = promisify(fs.readFile);
+export async function GET(req, { params }) {
+  // connectDB()
+  const World = params.world;
+  try {
+   
+    const data = await readFileAsync(`src/app/jsons/${World}.json`, 'utf8');
 
-    try {
-      const bosses = await Boss.find({ World: World }, { Boss: { $slice: 10 } }).exec();
-        
-        const bosssort = bosses[0].Boss;
-        bosssort.sort(function (b, a) {
-            if (a.Possibility > b.Possibility) {
-              return 1;
-            }
-            if (a.Possibility < b.Possibility) {
-              return -1;
-            }
-            // a must be equal to b
-            return 0;
-          });
-        return NextResponse.json(bosssort);
-    } catch (error) {
+    const Bosses = JSON.parse(data);
+    const bosssort = Bosses.Boss;
+    bosssort.sort((a, b) => b.Possibility - a.Possibility);
+
+    return NextResponse.json(bosssort);
+  } catch (error) {
+    return NextResponse.error();
+  }
+
+     
+
     
-        return NextResponse.error();
-    }
-}
+    
+    // try {
+    //    const bosses = await Boss.find({ World: World }).exec();
+        
+    //     const bosssort = bosses[0].Boss;
+    //     bosssort.sort(function (b, a) {
+    //         if (a.Possibility > b.Possibility) {
+    //           return 1;
+    //         }
+    //         if (a.Possibility < b.Possibility) {
+    //           return -1;
+    //         }
+    //         // a must be equal to b
+    //         return 0;
+    //       });
+    //     return NextResponse.json(bosssort);
+    // } catch (error) {
+    
+    //     return NextResponse.error();
+    // }
+    
+  }
 
 // export async function POST(request) {
 //     const data = await request.json();

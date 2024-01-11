@@ -1,0 +1,3421 @@
+{
+  "World": "Solidera",
+  "Boss": [
+    {
+      "Name": "A Greedy Eye",
+      "LastSeen": "2020-11-12",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/A_Greedy_Eye.gif"
+    },
+    {
+      "Name": "A Shielded Astral Glyph",
+      "LastSeen": "2023-11-03",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/A_Shielded_Astral_Glyph.gif"
+    },
+    {
+      "Name": "Abyssador",
+      "LastSeen": "2023-12-21",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Abyssador.gif"
+    },
+    {
+      "Name": "Achad",
+      "LastSeen": "2023-08-26",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Achad.gif"
+    },
+    {
+      "Name": "Aftershock",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Aftershock.gif"
+    },
+    {
+      "Name": "Ahau",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Ahau.gif"
+    },
+    {
+      "Name": "Alptramun",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Alptramun.gif"
+    },
+    {
+      "Name": "Amenef the Burning",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Amenef_the_Burning.gif"
+    },
+    {
+      "Name": "An Astral Glyph",
+      "LastSeen": "2023-12-14",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/An_Astral_Glyph.gif"
+    },
+    {
+      "Name": "An Observer Eye",
+      "LastSeen": "2023-12-09",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/An_Observer_Eye.gif"
+    },
+    {
+      "Name": "Ancient Spawn Of Morgathla",
+      "LastSeen": "2023-06-11",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Ancient_Spawn_Of_Morgathla.gif"
+    },
+    {
+      "Name": "Anmothra",
+      "LastSeen": "2023-11-25",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Anmothra.gif"
+    },
+    {
+      "Name": "Annihilon",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Annihilon.gif"
+    },
+    {
+      "Name": "Anomaly",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Anomaly.gif"
+    },
+    {
+      "Name": "Apprentice Sheng",
+      "LastSeen": "2023-12-26",
+      "Possibility": 12.65,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Apprentice_Sheng.gif"
+    },
+    {
+      "Name": "Arachir The Ancient One",
+      "LastSeen": "2023-12-23",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Arachir_The_Ancient_One.gif"
+    },
+    {
+      "Name": "Armenius",
+      "LastSeen": "2023-09-21",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Armenius.gif"
+    },
+    {
+      "Name": "Arthei",
+      "LastSeen": "2023-12-21",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Arthei.gif"
+    },
+    {
+      "Name": "Arthom The Hunter",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Arthom_The_Hunter.gif"
+    },
+    {
+      "Name": "Ascending Ferumbras",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Ascending_Ferumbras.gif"
+    },
+    {
+      "Name": "Ashmunrah",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Ashmunrah.gif"
+    },
+    {
+      "Name": "Atab",
+      "LastSeen": "2023-12-06",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Atab.gif"
+    },
+    {
+      "Name": "Avalanche",
+      "LastSeen": "2023-08-26",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Avalanche.gif"
+    },
+    {
+      "Name": "Axeitus Headbanger",
+      "LastSeen": "2023-08-26",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Axeitus_Headbanger.gif"
+    },
+    {
+      "Name": "Ayana the Crimson Curse",
+      "LastSeen": "2023-12-15",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Ayana_the_Crimson_Curse.gif"
+    },
+    {
+      "Name": "Azerus",
+      "LastSeen": "2023-08-20",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Azerus.gif"
+    },
+    {
+      "Name": "Bakragore",
+      "LastSeen": "2023-12-23",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Bakragore.gif"
+    },
+    {
+      "Name": "Bane Lord",
+      "LastSeen": "2023-06-25",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Bane_Lord.gif"
+    },
+    {
+      "Name": "Barbaria",
+      "LastSeen": "2023-12-18",
+      "Possibility": 22.37,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Barbaria.gif"
+    },
+    {
+      "Name": "Baron Brute",
+      "LastSeen": "2023-08-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Baron_Brute.gif"
+    },
+    {
+      "Name": "Battlemaster Zunzu",
+      "LastSeen": "2023-12-23",
+      "Possibility": 6.57,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Battlemaster_Zunzu.gif"
+    },
+    {
+      "Name": "Bibby Bloodbath",
+      "LastSeen": "2023-12-25",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Bibby_Bloodbath.gif"
+    },
+    {
+      "Name": "Big Boss Trolliver",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Big_Boss_Trolliver.gif"
+    },
+    {
+      "Name": "black knights",
+      "LastSeen": "2023-10-02",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/black_knights.gif"
+    },
+    {
+      "Name": "Black Vixen",
+      "LastSeen": "2023-08-08",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Black_Vixen.gif"
+    },
+    {
+      "Name": "Bloodback",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Bloodback.gif"
+    },
+    {
+      "Name": "Bloodjaws",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Bloodjaws.gif"
+    },
+    {
+      "Name": "Bloodpaw",
+      "LastSeen": "2023-08-26",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Bloodpaw.gif"
+    },
+    {
+      "Name": "Bolfrim",
+      "LastSeen": "-",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Bolfrim.gif"
+    },
+    {
+      "Name": "Bone Capsule",
+      "LastSeen": "2023-08-20",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Bone_Capsule.gif"
+    },
+    {
+      "Name": "Boogey",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Boogey.gif"
+    },
+    {
+      "Name": "Boreth",
+      "LastSeen": "2023-12-21",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Boreth.gif"
+    },
+    {
+      "Name": "Bovinus",
+      "LastSeen": "2023-08-26",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Bovinus.gif"
+    },
+    {
+      "Name": "Bragrumol",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Bragrumol.gif"
+    },
+    {
+      "Name": "Brain Head",
+      "LastSeen": "2023-12-21",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Brain_Head.gif"
+    },
+    {
+      "Name": "Bretzecutioner",
+      "LastSeen": "2023-08-07",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Bretzecutioner.gif"
+    },
+    {
+      "Name": "Brokul",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Brokul.gif"
+    },
+    {
+      "Name": "Brother Chill",
+      "LastSeen": "2023-08-28",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Brother_Chill.gif"
+    },
+    {
+      "Name": "Brother Freeze",
+      "LastSeen": "2023-08-28",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Brother_Freeze.gif"
+    },
+    {
+      "Name": "Bruise Payne",
+      "LastSeen": "2023-08-20",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Bruise_Payne.gif"
+    },
+    {
+      "Name": "Bruton",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Bruton.gif"
+    },
+    {
+      "Name": "Brutus Bloodbeard",
+      "LastSeen": "2023-08-28",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Brutus_Bloodbeard.gif"
+    },
+    {
+      "Name": "Bullwark",
+      "LastSeen": "2023-07-21",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Bullwark.gif"
+    },
+    {
+      "Name": "Burster",
+      "LastSeen": "2023-12-03",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Burster.gif"
+    },
+    {
+      "Name": "Captain Jones",
+      "LastSeen": "2023-12-25",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Captain_Jones.gif"
+    },
+    {
+      "Name": "Chagorz",
+      "LastSeen": "2023-12-23",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Chagorz.gif"
+    },
+    {
+      "Name": "Channeling Earl Osam",
+      "LastSeen": "2023-08-17",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Channeling_Earl_Osam.gif"
+    },
+    {
+      "Name": "Charged Anomaly",
+      "LastSeen": "2023-08-21",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Charged_Anomaly.gif"
+    },
+    {
+      "Name": "Chikhaton",
+      "LastSeen": "2023-10-30",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Chikhaton.gif"
+    },
+    {
+      "Name": "Chizzoron the Distorter",
+      "LastSeen": "2023-12-20",
+      "Possibility": 8.46,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Chizzoron_the_Distorter.gif"
+    },
+    {
+      "Name": "Chopper",
+      "LastSeen": "2023-11-28",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Chopper.gif"
+    },
+    {
+      "Name": "Coldheart",
+      "LastSeen": "2023-08-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Coldheart.gif"
+    },
+    {
+      "Name": "Colerian the Barbarian",
+      "LastSeen": "2023-08-26",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Colerian_the_Barbarian.gif"
+    },
+    {
+      "Name": "Count Vlarkorth",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Count_Vlarkorth.gif"
+    },
+    {
+      "Name": "Countess Sorrow",
+      "LastSeen": "2023-12-18",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Countess_Sorrow.gif"
+    },
+    {
+      "Name": "Crultor",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Crultor.gif"
+    },
+    {
+      "Name": "crustaceae giganticae",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/crustaceae_giganticae.gif"
+    },
+    {
+      "Name": "Cublarc the Plunderer",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Cublarc_the_Plunderer.gif"
+    },
+    {
+      "Name": "cursed gladiators",
+      "LastSeen": "2023-08-26",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/cursed_gladiators.gif"
+    },
+    {
+      "Name": "Custodian",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Custodian.gif"
+    },
+    {
+      "Name": "Damage Resonance",
+      "LastSeen": "2023-08-28",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Damage_Resonance.gif"
+    },
+    {
+      "Name": "Darakan the Executioner",
+      "LastSeen": "2023-08-28",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Darakan_the_Executioner.gif"
+    },
+    {
+      "Name": "Darkfang",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Darkfang.gif"
+    },
+    {
+      "Name": "dazed leaf golems",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/dazed_leaf_golems.gif"
+    },
+    {
+      "Name": "Deadeye Devious",
+      "LastSeen": "2023-08-28",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Deadeye_Devious.gif"
+    },
+    {
+      "Name": "death priest Shargon",
+      "LastSeen": "2023-09-14",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/death_priest_Shargon.gif"
+    },
+    {
+      "Name": "Deathbine",
+      "LastSeen": "2023-08-26",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Deathbine.gif"
+    },
+    {
+      "Name": "Deathbringer",
+      "LastSeen": "2023-08-26",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Deathbringer.gif"
+    },
+    {
+      "Name": "Deathstrike",
+      "LastSeen": "2023-12-21",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Deathstrike.gif"
+    },
+    {
+      "Name": "Deep Terror",
+      "LastSeen": "2023-12-04",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Deep_Terror.gif"
+    },
+    {
+      "Name": "Delany",
+      "LastSeen": "-",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Delany.gif"
+    },
+    {
+      "Name": "Demodras",
+      "LastSeen": "2023-08-21",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Demodras.gif"
+    },
+    {
+      "Name": "Despair",
+      "LastSeen": "2023-08-25",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Despair.gif"
+    },
+    {
+      "Name": "Despor",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Despor.gif"
+    },
+    {
+      "Name": "Destabilized Ferumbras",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Destabilized_Ferumbras.gif"
+    },
+    {
+      "Name": "Devovorga",
+      "LastSeen": "2023-09-02",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Devovorga.gif"
+    },
+    {
+      "Name": "Dharalion",
+      "LastSeen": "2023-12-25",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Dharalion.gif"
+    },
+    {
+      "Name": "Diblis The Fair",
+      "LastSeen": "2023-12-18",
+      "Possibility": 9.78,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Diblis_The_Fair.gif"
+    },
+    {
+      "Name": "Dipthrah",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Dipthrah.gif"
+    },
+    {
+      "Name": "Dirtbeard",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Dirtbeard.gif"
+    },
+    {
+      "Name": "diseased Bills",
+      "LastSeen": "2023-10-02",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/diseased_Bills.gif"
+    },
+    {
+      "Name": "diseased Dans",
+      "LastSeen": "2023-10-02",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/diseased_Dans.gif"
+    },
+    {
+      "Name": "diseased Freds",
+      "LastSeen": "2023-10-02",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/diseased_Freds.gif"
+    },
+    {
+      "Name": "Doctor Perhaps",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Doctor_Perhaps.gif"
+    },
+    {
+      "Name": "Doomhowl",
+      "LastSeen": "2023-08-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Doomhowl.gif"
+    },
+    {
+      "Name": "Dorokoll The Mystic",
+      "LastSeen": "2023-08-17",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Dorokoll_The_Mystic.gif"
+    },
+    {
+      "Name": "Dracola",
+      "LastSeen": "2023-12-12",
+      "Possibility": 15.53,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Dracola.gif"
+    },
+    {
+      "Name": "Dragon Essences",
+      "LastSeen": "2023-02-11",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Dragon_Essences.gif"
+    },
+    {
+      "Name": "Dragon Wardens",
+      "LastSeen": "2023-02-11",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Dragon_Wardens.gif"
+    },
+    {
+      "Name": "Dragonking Zyrtarch",
+      "LastSeen": "2023-01-15",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Dragonking_Zyrtarch.gif"
+    },
+    {
+      "Name": "draptors",
+      "LastSeen": "2023-12-26",
+      "Possibility": 12.33,
+      "ExpectedIn": null,
+      "Url": "images/bosses/draptors.gif"
+    },
+    {
+      "Name": "Drasilla",
+      "LastSeen": "2023-08-26",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Drasilla.gif"
+    },
+    {
+      "Name": "Dreadful Disruptor",
+      "LastSeen": "2023-12-15",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Dreadful_Disruptor.gif"
+    },
+    {
+      "Name": "Dreadmaw",
+      "LastSeen": "2023-12-23",
+      "Possibility": 2.93,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Dreadmaw.gif"
+    },
+    {
+      "Name": "Dreadwing",
+      "LastSeen": "2023-08-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Dreadwing.gif"
+    },
+    {
+      "Name": "Drume",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Drume.gif"
+    },
+    {
+      "Name": "Duke Krule",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Duke_Krule.gif"
+    },
+    {
+      "Name": "Earl Osam",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Earl_Osam.gif"
+    },
+    {
+      "Name": "Earth Overlords",
+      "LastSeen": "2023-07-20",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Earth_Overlords.gif"
+    },
+    {
+      "Name": "Ekatrix",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Ekatrix.gif"
+    },
+    {
+      "Name": "Elder Bloodjaws",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Elder_Bloodjaws.gif"
+    },
+    {
+      "Name": "Eliz The Unyielding",
+      "LastSeen": "2023-08-17",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Eliz_The_Unyielding.gif"
+    },
+    {
+      "Name": "Elvira Hammerthrust",
+      "LastSeen": "2023-12-11",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Elvira_Hammerthrust.gif"
+    },
+    {
+      "Name": "Emberwing",
+      "LastSeen": "2020-11-30",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Emberwing.gif"
+    },
+    {
+      "Name": "Energy Overlords",
+      "LastSeen": "2023-08-11",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Energy_Overlords.gif"
+    },
+    {
+      "Name": "Enraged Morshabaal",
+      "LastSeen": "-",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Enraged_Morshabaal.gif"
+    },
+    {
+      "Name": "Enusat the Onyx Wing",
+      "LastSeen": "2023-12-26",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Enusat_the_Onyx_Wing.gif"
+    },
+    {
+      "Name": "Eradicator",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Eradicator.gif"
+    },
+    {
+      "Name": "Eshtaba The Conjurer",
+      "LastSeen": "2023-08-17",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Eshtaba_The_Conjurer.gif"
+    },
+    {
+      "Name": "Esmeralda",
+      "LastSeen": "2023-08-24",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Esmeralda.gif"
+    },
+    {
+      "Name": "Essence Of Malice",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Essence_Of_Malice.gif"
+    },
+    {
+      "Name": "Ethershreck",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Ethershreck.gif"
+    },
+    {
+      "Name": "Evil Mastermind",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Evil_Mastermind.gif"
+    },
+    {
+      "Name": "Faceless Bane",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Faceless_Bane.gif"
+    },
+    {
+      "Name": "Fahim the Wise",
+      "LastSeen": "2023-07-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Fahim_the_Wise.gif"
+    },
+    {
+      "Name": "Fallen Challengers",
+      "LastSeen": "2023-02-11",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Fallen_Challengers.gif"
+    },
+    {
+      "Name": "Fallen Mooh'Tah Master Ghar",
+      "LastSeen": "2023-08-26",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Fallen_Mooh'Tah_Master_Ghar.gif"
+    },
+    {
+      "Name": "Fatality",
+      "LastSeen": "2023-08-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Fatality.gif"
+    },
+    {
+      "Name": "Fazzrah",
+      "LastSeen": "2023-08-25",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Fazzrah.gif"
+    },
+    {
+      "Name": "Fernfang",
+      "LastSeen": "2023-12-06",
+      "Possibility": 16.93,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Fernfang.gif"
+    },
+    {
+      "Name": "Feroxa",
+      "LastSeen": "2023-12-13",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Feroxa.gif"
+    },
+    {
+      "Name": "Ferumbras",
+      "LastSeen": "2023-12-10",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Ferumbras.gif"
+    },
+    {
+      "Name": "Ferumbras Mortal Shell",
+      "LastSeen": "2023-01-29",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Ferumbras_Mortal_Shell.gif"
+    },
+    {
+      "Name": "Ferumbras Soul Splinter",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Ferumbras_Soul_Splinter.gif"
+    },
+    {
+      "Name": "Fire Overlords",
+      "LastSeen": "2023-07-20",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Fire_Overlords.gif"
+    },
+    {
+      "Name": "Flameborn",
+      "LastSeen": "2023-08-20",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Flameborn.gif"
+    },
+    {
+      "Name": "Flamecaller Zazrak",
+      "LastSeen": "2023-12-24",
+      "Possibility": 3.5,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Flamecaller_Zazrak.gif"
+    },
+    {
+      "Name": "Fleabringer",
+      "LastSeen": "2023-12-27",
+      "Possibility": 7.2,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Fleabringer.gif"
+    },
+    {
+      "Name": "Fleshcrawler",
+      "LastSeen": "2023-08-28",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Fleshcrawler.gif"
+    },
+    {
+      "Name": "Fleshslicer",
+      "LastSeen": "2023-11-28",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Fleshslicer.gif"
+    },
+    {
+      "Name": "Foreman Kneebiter",
+      "LastSeen": "2023-12-23",
+      "Possibility": 18.49,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Foreman_Kneebiter.gif"
+    },
+    {
+      "Name": "Foreshock",
+      "LastSeen": "2023-08-28",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Foreshock.gif"
+    },
+    {
+      "Name": "Frenzy",
+      "LastSeen": "2023-08-28",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Frenzy.gif"
+    },
+    {
+      "Name": "Frostfur",
+      "LastSeen": "2023-08-26",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Frostfur.gif"
+    },
+    {
+      "Name": "Fugue",
+      "LastSeen": "2023-08-28",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Fugue.gif"
+    },
+    {
+      "Name": "Furious Morshabaal",
+      "LastSeen": "-",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Furious_Morshabaal.gif"
+    },
+    {
+      "Name": "Furyosa",
+      "LastSeen": "2023-10-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Furyosa.gif"
+    },
+    {
+      "Name": "Gaffir",
+      "LastSeen": "2023-12-26",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Gaffir.gif"
+    },
+    {
+      "Name": "Gaz'haragoth",
+      "LastSeen": "2023-12-08",
+      "Possibility": 10.07,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Gaz'haragoth.gif"
+    },
+    {
+      "Name": "Gelidrazah the Frozen",
+      "LastSeen": "2023-02-12",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Gelidrazah_the_Frozen.gif"
+    },
+    {
+      "Name": "General Murius",
+      "LastSeen": "2023-12-14",
+      "Possibility": 28.54,
+      "ExpectedIn": null,
+      "Url": "images/bosses/General_Murius.gif"
+    },
+    {
+      "Name": "Ghazbaran",
+      "LastSeen": "2023-10-06",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Ghazbaran.gif"
+    },
+    {
+      "Name": "Ghulosh",
+      "LastSeen": "2023-12-24",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Ghulosh.gif"
+    },
+    {
+      "Name": "Ghulosh' Deathgaze",
+      "LastSeen": "2023-02-07",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Ghulosh'_Deathgaze.gif"
+    },
+    {
+      "Name": "Glitterscale",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Glitterscale.gif"
+    },
+    {
+      "Name": "Glooth Fairy",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Glooth_Fairy.gif"
+    },
+    {
+      "Name": "Gnomevil",
+      "LastSeen": "2023-12-21",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Gnomevil.gif"
+    },
+    {
+      "Name": "Gnorre Chyllson",
+      "LastSeen": "2023-08-28",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Gnorre_Chyllson.gif"
+    },
+    {
+      "Name": "Golgordan",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Golgordan.gif"
+    },
+    {
+      "Name": "Gorgo",
+      "LastSeen": "2023-08-28",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Gorgo.gif"
+    },
+    {
+      "Name": "Gorzindel",
+      "LastSeen": "2023-12-24",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Gorzindel.gif"
+    },
+    {
+      "Name": "Goshnar's Cruelty",
+      "LastSeen": "2023-12-22",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Goshnar's_Cruelty.gif"
+    },
+    {
+      "Name": "Goshnar's Greed",
+      "LastSeen": "2023-12-05",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Goshnar's_Greed.gif"
+    },
+    {
+      "Name": "Goshnar's Hatred",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Goshnar's_Hatred.gif"
+    },
+    {
+      "Name": "Goshnar's Malice",
+      "LastSeen": "2023-12-08",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Goshnar's_Malice.gif"
+    },
+    {
+      "Name": "Goshnar's Megalomania",
+      "LastSeen": "2023-12-14",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Goshnar's_Megalomania.gif"
+    },
+    {
+      "Name": "Goshnar's Spite",
+      "LastSeen": "2023-12-05",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Goshnar's_Spite.gif"
+    },
+    {
+      "Name": "Grand Canon Dominus",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Grand_Canon_Dominus.gif"
+    },
+    {
+      "Name": "Grand Chaplain Gaunder",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Grand_Chaplain_Gaunder.gif"
+    },
+    {
+      "Name": "Grand Commander Soeren",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Grand_Commander_Soeren.gif"
+    },
+    {
+      "Name": "Grand Master Oberon",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Grand_Master_Oberon.gif"
+    },
+    {
+      "Name": "Grand Mother Foulscale",
+      "LastSeen": "2023-12-24",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Grand_Mother_Foulscale.gif"
+    },
+    {
+      "Name": "Grandfather Tridian",
+      "LastSeen": "2023-12-04",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Grandfather_Tridian.gif"
+    },
+    {
+      "Name": "Gravelord Oshuran",
+      "LastSeen": "2023-12-08",
+      "Possibility": 15.66,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Gravelord_Oshuran.gif"
+    },
+    {
+      "Name": "Greed",
+      "LastSeen": "2023-08-28",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Greed.gif"
+    },
+    {
+      "Name": "Greedok",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Greedok.gif"
+    },
+    {
+      "Name": "Grimgor Guteater",
+      "LastSeen": "2023-08-26",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Grimgor_Guteater.gif"
+    },
+    {
+      "Name": "Groam",
+      "LastSeen": "2023-12-02",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Groam.gif"
+    },
+    {
+      "Name": "Grorlam",
+      "LastSeen": "2023-12-23",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Grorlam.gif"
+    },
+    {
+      "Name": "Grovebeast",
+      "LastSeen": "2020-11-30",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Grovebeast.gif"
+    },
+    {
+      "Name": "Guard Captain Quaid",
+      "LastSeen": "2023-12-26",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Guard_Captain_Quaid.gif"
+    },
+    {
+      "Name": "Guilt",
+      "LastSeen": "2022-03-09",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Guilt.gif"
+    },
+    {
+      "Name": "Hairman The Huge",
+      "LastSeen": "2023-12-09",
+      "Possibility": 11.01,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Hairman_The_Huge.gif"
+    },
+    {
+      "Name": "Hatebreeder",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Hatebreeder.gif"
+    },
+    {
+      "Name": "Haunter",
+      "LastSeen": "2023-08-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Haunter.gif"
+    },
+    {
+      "Name": "Hellgorak",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Hellgorak.gif"
+    },
+    {
+      "Name": "Hemming",
+      "LastSeen": "2023-08-20",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Hemming.gif"
+    },
+    {
+      "Name": "Heoni",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Heoni.gif"
+    },
+    {
+      "Name": "Hide",
+      "LastSeen": "2023-08-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Hide.gif"
+    },
+    {
+      "Name": "High Templar Cobrass",
+      "LastSeen": "2023-12-17",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/High_Templar_Cobrass.gif"
+    },
+    {
+      "Name": "Hirintror",
+      "LastSeen": "2023-12-17",
+      "Possibility": 6.11,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Hirintror.gif"
+    },
+    {
+      "Name": "Horadron",
+      "LastSeen": "2023-11-25",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Horadron.gif"
+    },
+    {
+      "Name": "Horestis",
+      "LastSeen": "2023-11-30",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Horestis.gif"
+    },
+    {
+      "Name": "Ice Overlords",
+      "LastSeen": "2023-07-26",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Ice_Overlords.gif"
+    },
+    {
+      "Name": "Ichgahal",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Ichgahal.gif"
+    },
+    {
+      "Name": "Incineron",
+      "LastSeen": "2023-08-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Incineron.gif"
+    },
+    {
+      "Name": "Inky",
+      "LastSeen": "2023-08-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Inky.gif"
+    },
+    {
+      "Name": "Irahsae",
+      "LastSeen": "2023-11-25",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Irahsae.gif"
+    },
+    {
+      "Name": "Irgix the Flimsy",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Irgix_the_Flimsy.gif"
+    },
+    {
+      "Name": "Izcandar Champion of Summer",
+      "LastSeen": "2023-12-23",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Izcandar_Champion_of_Summer.gif"
+    },
+    {
+      "Name": "Izcandar Champion of Winter",
+      "LastSeen": "2023-12-13",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Izcandar_Champion_of_Winter.gif"
+    },
+    {
+      "Name": "Izcandar the Banished",
+      "LastSeen": "2023-12-18",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Izcandar_the_Banished.gif"
+    },
+    {
+      "Name": "Jailer",
+      "LastSeen": "2023-08-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Jailer.gif"
+    },
+    {
+      "Name": "Jaul",
+      "LastSeen": "2023-12-21",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Jaul.gif"
+    },
+    {
+      "Name": "Jesse the Wicked",
+      "LastSeen": "2023-09-02",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Jesse_the_Wicked.gif"
+    },
+    {
+      "Name": "Kalyassa",
+      "LastSeen": "2023-02-12",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Kalyassa.gif"
+    },
+    {
+      "Name": "Katex Blood Tongue",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Katex_Blood_Tongue.gif"
+    },
+    {
+      "Name": "Kerberos",
+      "LastSeen": "2023-08-25",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Kerberos.gif"
+    },
+    {
+      "Name": "Kesar",
+      "LastSeen": "2022-11-04",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Kesar.gif"
+    },
+    {
+      "Name": "King Zelos",
+      "LastSeen": "2023-12-20",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/King_Zelos.gif"
+    },
+    {
+      "Name": "Kitty",
+      "LastSeen": "-",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Kitty.gif"
+    },
+    {
+      "Name": "Koshei the Deathless",
+      "LastSeen": "2023-08-19",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Koshei_the_Deathless.gif"
+    },
+    {
+      "Name": "Kraknaknork",
+      "LastSeen": "2023-07-28",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Kraknaknork.gif"
+    },
+    {
+      "Name": "Kraknaknork's demon",
+      "LastSeen": "2023-06-18",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Kraknaknork's_demon.gif"
+    },
+    {
+      "Name": "Kreebosh the Exile",
+      "LastSeen": "2023-08-26",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Kreebosh_the_Exile.gif"
+    },
+    {
+      "Name": "Kroazur",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Kroazur.gif"
+    },
+    {
+      "Name": "Kusuma",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Kusuma.gif"
+    },
+    {
+      "Name": "Lady Tenebris",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Lady_Tenebris.gif"
+    },
+    {
+      "Name": "Lagatoses",
+      "LastSeen": "-",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Lagatoses.gif"
+    },
+    {
+      "Name": "Last Planegazer",
+      "LastSeen": "2023-08-24",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Last_Planegazer.gif"
+    },
+    {
+      "Name": "Latrivan",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Latrivan.gif"
+    },
+    {
+      "Name": "Leiden",
+      "LastSeen": "2023-08-28",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Leiden.gif"
+    },
+    {
+      "Name": "Lersatio",
+      "LastSeen": "2023-12-21",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Lersatio.gif"
+    },
+    {
+      "Name": "Lethal Lissy",
+      "LastSeen": "2023-08-21",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Lethal_Lissy.gif"
+    },
+    {
+      "Name": "Leviathan",
+      "LastSeen": "2023-08-24",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Leviathan.gif"
+    },
+    {
+      "Name": "Lionet",
+      "LastSeen": "-",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Lionet.gif"
+    },
+    {
+      "Name": "Lisa",
+      "LastSeen": "2023-10-13",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Lisa.gif"
+    },
+    {
+      "Name": "Lloyd",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Lloyd.gif"
+    },
+    {
+      "Name": "Lokathmor",
+      "LastSeen": "2023-12-24",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Lokathmor.gif"
+    },
+    {
+      "Name": "Lord Azaram",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Lord_Azaram.gif"
+    },
+    {
+      "Name": "Lord of the Elements",
+      "LastSeen": "2023-11-28",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Lord_of_the_Elements.gif"
+    },
+    {
+      "Name": "Lyxoph",
+      "LastSeen": "-",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Lyxoph.gif"
+    },
+    {
+      "Name": "mad mages",
+      "LastSeen": "2023-10-02",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/mad_mages.gif"
+    },
+    {
+      "Name": "Madareth",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Madareth.gif"
+    },
+    {
+      "Name": "magma bubbles",
+      "LastSeen": "2023-08-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/magma_bubbles.gif"
+    },
+    {
+      "Name": "Mahatheb",
+      "LastSeen": "2023-09-09",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Mahatheb.gif"
+    },
+    {
+      "Name": "Mahrdis",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Mahrdis.gif"
+    },
+    {
+      "Name": "Maliz",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Maliz.gif"
+    },
+    {
+      "Name": "Malkhar Deathbringer",
+      "LastSeen": "2023-08-17",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Malkhar_Deathbringer.gif"
+    },
+    {
+      "Name": "Malofur Mangrinder",
+      "LastSeen": "2023-12-26",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Malofur_Mangrinder.gif"
+    },
+    {
+      "Name": "Mamma Longlegs",
+      "LastSeen": "2023-08-23",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Mamma_Longlegs.gif"
+    },
+    {
+      "Name": "man in the cave",
+      "LastSeen": "2023-12-14",
+      "Possibility": 35.27,
+      "ExpectedIn": null,
+      "Url": "images/bosses/man_in_the_cave.gif"
+    },
+    {
+      "Name": "Marziel",
+      "LastSeen": "2023-12-21",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Marziel.gif"
+    },
+    {
+      "Name": "Massacre",
+      "LastSeen": "2023-12-15",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Massacre.gif"
+    },
+    {
+      "Name": "Maw",
+      "LastSeen": "2023-11-29",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Maw.gif"
+    },
+    {
+      "Name": "Mawhawk",
+      "LastSeen": "2023-12-10",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Mawhawk.gif"
+    },
+    {
+      "Name": "Maxxenius",
+      "LastSeen": "2023-12-26",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Maxxenius.gif"
+    },
+    {
+      "Name": "Mazoran",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Mazoran.gif"
+    },
+    {
+      "Name": "Mazzinor",
+      "LastSeen": "2023-12-24",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Mazzinor.gif"
+    },
+    {
+      "Name": "Megasylvan Yselda",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Megasylvan_Yselda.gif"
+    },
+    {
+      "Name": "melting frozen horrors",
+      "LastSeen": "2023-10-01",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/melting_frozen_horrors.gif"
+    },
+    {
+      "Name": "Menace",
+      "LastSeen": "2023-08-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Menace.gif"
+    },
+    {
+      "Name": "Mephiles",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Mephiles.gif"
+    },
+    {
+      "Name": "Merikh the Slaughterer",
+      "LastSeen": "2023-08-06",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Merikh_the_Slaughterer.gif"
+    },
+    {
+      "Name": "Mezlon The Defiler",
+      "LastSeen": "2023-08-17",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Mezlon_The_Defiler.gif"
+    },
+    {
+      "Name": "midnight panthers",
+      "LastSeen": "2023-12-14",
+      "Possibility": 20.74,
+      "ExpectedIn": null,
+      "Url": "images/bosses/midnight_panthers.gif"
+    },
+    {
+      "Name": "Mindmasher",
+      "LastSeen": "2023-11-30",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Mindmasher.gif"
+    },
+    {
+      "Name": "Mirade",
+      "LastSeen": "-",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Mirade.gif"
+    },
+    {
+      "Name": "Mitmah Vanguard",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Mitmah_Vanguard.gif"
+    },
+    {
+      "Name": "Monstor",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Monstor.gif"
+    },
+    {
+      "Name": "Mooh'Tah masters",
+      "LastSeen": "2023-03-07",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Mooh'Tah_masters.gif"
+    },
+    {
+      "Name": "Morgaroth",
+      "LastSeen": "2023-07-11",
+      "Possibility": 15.28,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Morgaroth.gif"
+    },
+    {
+      "Name": "Morguthis",
+      "LastSeen": "2023-12-17",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Morguthis.gif"
+    },
+    {
+      "Name": "Morik the gladiator",
+      "LastSeen": "2023-08-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Morik_the_gladiator.gif"
+    },
+    {
+      "Name": "Mornenion",
+      "LastSeen": "2023-12-01",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Mornenion.gif"
+    },
+    {
+      "Name": "Morshabaal",
+      "LastSeen": "2023-08-12",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Morshabaal.gif"
+    },
+    {
+      "Name": "mounted Thorn Knights",
+      "LastSeen": "2022-07-17",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/mounted_Thorn_Knights.gif"
+    },
+    {
+      "Name": "Mozradek",
+      "LastSeen": "2023-12-21",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Mozradek.gif"
+    },
+    {
+      "Name": "Mr. Punish",
+      "LastSeen": "2023-12-25",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Mr._Punish.gif"
+    },
+    {
+      "Name": "Munster",
+      "LastSeen": "2023-12-26",
+      "Possibility": 16.33,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Munster.gif"
+    },
+    {
+      "Name": "Murcion",
+      "LastSeen": "2023-12-23",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Murcion.gif"
+    },
+    {
+      "Name": "Necropharus",
+      "LastSeen": "2023-08-25",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Necropharus.gif"
+    },
+    {
+      "Name": "Neferi the Spy",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Neferi_the_Spy.gif"
+    },
+    {
+      "Name": "Norgle Glacierbeard",
+      "LastSeen": "2023-08-28",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Norgle_Glacierbeard.gif"
+    },
+    {
+      "Name": "Obujos",
+      "LastSeen": "2023-10-25",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Obujos.gif"
+    },
+    {
+      "Name": "Ocyakao",
+      "LastSeen": "2023-12-15",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Ocyakao.gif"
+    },
+    {
+      "Name": "Omrafir",
+      "LastSeen": "2023-12-12",
+      "Possibility": 7.99,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Omrafir.gif"
+    },
+    {
+      "Name": "Omruc",
+      "LastSeen": "2023-12-22",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Omruc.gif"
+    },
+    {
+      "Name": "Oodok Witchmaster",
+      "LastSeen": "2023-12-23",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Oodok_Witchmaster.gif"
+    },
+    {
+      "Name": "Orcus the cruel",
+      "LastSeen": "2023-08-26",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Orcus_the_cruel.gif"
+    },
+    {
+      "Name": "Orshabaal",
+      "LastSeen": "2023-12-09",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Orshabaal.gif"
+    },
+    {
+      "Name": "Outburst",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Outburst.gif"
+    },
+    {
+      "Name": "Owin",
+      "LastSeen": "2023-12-15",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Owin.gif"
+    },
+    {
+      "Name": "Paiz the Pauperizer",
+      "LastSeen": "2023-08-28",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Paiz_the_Pauperizer.gif"
+    },
+    {
+      "Name": "Penciljack",
+      "LastSeen": "-",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Penciljack.gif"
+    },
+    {
+      "Name": "Phrodomo",
+      "LastSeen": "2023-11-26",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Phrodomo.gif"
+    },
+    {
+      "Name": "Piñata Dragons",
+      "LastSeen": "2023-01-10",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Piñata_Dragons.gif"
+    },
+    {
+      "Name": "Plagirath",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Plagirath.gif"
+    },
+    {
+      "Name": "Plagueroot",
+      "LastSeen": "2023-12-19",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Plagueroot.gif"
+    },
+    {
+      "Name": "Planestrider",
+      "LastSeen": "2023-10-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Planestrider.gif"
+    },
+    {
+      "Name": "Preceptor Lazare",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Preceptor_Lazare.gif"
+    },
+    {
+      "Name": "Prince Drazzak",
+      "LastSeen": "2023-08-13",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Prince_Drazzak.gif"
+    },
+    {
+      "Name": "Professor Maxxen",
+      "LastSeen": "2023-09-29",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Professor_Maxxen.gif"
+    },
+    {
+      "Name": "Pythius the rotten",
+      "LastSeen": "2023-08-25",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Pythius_the_rotten.gif"
+    },
+    {
+      "Name": "Queen Nostalgia",
+      "LastSeen": "-",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Queen_Nostalgia.gif"
+    },
+    {
+      "Name": "Queen Nostalgias",
+      "LastSeen": "-",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Queen_Nostalgias.gif"
+    },
+    {
+      "Name": "Rage of Mazoran",
+      "LastSeen": "2023-08-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Rage_of_Mazoran.gif"
+    },
+    {
+      "Name": "Ragiaz",
+      "LastSeen": "2023-12-19",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Ragiaz.gif"
+    },
+    {
+      "Name": "raging mages",
+      "LastSeen": "2023-10-02",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/raging_mages.gif"
+    },
+    {
+      "Name": "Rahemos",
+      "LastSeen": "2023-12-26",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Rahemos.gif"
+    },
+    {
+      "Name": "Ratmiral Blackwhiskers",
+      "LastSeen": "2023-12-24",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Ratmiral_Blackwhiskers.gif"
+    },
+    {
+      "Name": "Ravenous Hunger",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Ravenous_Hunger.gif"
+    },
+    {
+      "Name": "Raxias",
+      "LastSeen": "2023-12-24",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Raxias.gif"
+    },
+    {
+      "Name": "Razzagorn",
+      "LastSeen": "2023-12-24",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Razzagorn.gif"
+    },
+    {
+      "Name": "Realityquake",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Realityquake.gif"
+    },
+    {
+      "Name": "Rejana",
+      "LastSeen": "-",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Rejana.gif"
+    },
+    {
+      "Name": "Ribstride",
+      "LastSeen": "2023-08-26",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Ribstride.gif"
+    },
+    {
+      "Name": "Robby the Reckless",
+      "LastSeen": "2023-10-29",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Robby_the_Reckless.gif"
+    },
+    {
+      "Name": "Rocko",
+      "LastSeen": "2023-08-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Rocko.gif"
+    },
+    {
+      "Name": "Rocky",
+      "LastSeen": "2023-08-26",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Rocky.gif"
+    },
+    {
+      "Name": "Ron The Ripper",
+      "LastSeen": "2023-08-28",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Ron_The_Ripper.gif"
+    },
+    {
+      "Name": "Rotspit",
+      "LastSeen": "2023-11-29",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Rotspit.gif"
+    },
+    {
+      "Name": "Rottie the Rotworm",
+      "LastSeen": "2023-12-03",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Rottie_the_Rotworm.gif"
+    },
+    {
+      "Name": "Rotworm Queens",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Rotworm_Queens.gif"
+    },
+    {
+      "Name": "Rukor Zad",
+      "LastSeen": "2023-12-21",
+      "Possibility": 19.23,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Rukor_Zad.gif"
+    },
+    {
+      "Name": "Rupture",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Rupture.gif"
+    },
+    {
+      "Name": "Scarlett Etzel",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Scarlett_Etzel.gif"
+    },
+    {
+      "Name": "Shadow of Boreth",
+      "LastSeen": "-",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Shadow_of_Boreth.gif"
+    },
+    {
+      "Name": "Shadow of Lersatio",
+      "LastSeen": "2021-08-04",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Shadow_of_Lersatio.gif"
+    },
+    {
+      "Name": "Shadow of Marziel",
+      "LastSeen": "2021-02-09",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Shadow_of_Marziel.gif"
+    },
+    {
+      "Name": "Shadowpelt",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Shadowpelt.gif"
+    },
+    {
+      "Name": "Shadowstalker",
+      "LastSeen": "2023-11-30",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Shadowstalker.gif"
+    },
+    {
+      "Name": "Shard of Corruption",
+      "LastSeen": "2023-08-28",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Shard_of_Corruption.gif"
+    },
+    {
+      "Name": "Shardhead",
+      "LastSeen": "2023-08-24",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Shardhead.gif"
+    },
+    {
+      "Name": "Sharpclaw",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Sharpclaw.gif"
+    },
+    {
+      "Name": "Sharptooth",
+      "LastSeen": "2023-08-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Sharptooth.gif"
+    },
+    {
+      "Name": "Shlorg",
+      "LastSeen": "2023-12-15",
+      "Possibility": 4.39,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Shlorg.gif"
+    },
+    {
+      "Name": "Shulgrax",
+      "LastSeen": "2023-12-18",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Shulgrax.gif"
+    },
+    {
+      "Name": "Sin Devourers",
+      "LastSeen": "2023-06-03",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Sin_Devourers.gif"
+    },
+    {
+      "Name": "Sir Baeloc",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Sir_Baeloc.gif"
+    },
+    {
+      "Name": "Sir Nictros",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Sir_Nictros.gif"
+    },
+    {
+      "Name": "Sir Valorcrest",
+      "LastSeen": "2023-12-23",
+      "Possibility": 16.17,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Sir_Valorcrest.gif"
+    },
+    {
+      "Name": "Siramal",
+      "LastSeen": "-",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Siramal.gif"
+    },
+    {
+      "Name": "Sister Hetai",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Sister_Hetai.gif"
+    },
+    {
+      "Name": "Skullfrost",
+      "LastSeen": "2020-11-30",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Skullfrost.gif"
+    },
+    {
+      "Name": "Slim",
+      "LastSeen": "2023-08-26",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Slim.gif"
+    },
+    {
+      "Name": "Smuggler Baron Silvertoe",
+      "LastSeen": "2023-12-04",
+      "Possibility": 20.5,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Smuggler_Baron_Silvertoe.gif"
+    },
+    {
+      "Name": "Soul Cages",
+      "LastSeen": "2023-08-11",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Soul_Cages.gif"
+    },
+    {
+      "Name": "Soul of Dragonking Zyrtarch",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Soul_of_Dragonking_Zyrtarch.gif"
+    },
+    {
+      "Name": "spirits of earth",
+      "LastSeen": "2023-08-26",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/spirits_of_earth.gif"
+    },
+    {
+      "Name": "spirits of fire",
+      "LastSeen": "2023-08-26",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/spirits_of_fire.gif"
+    },
+    {
+      "Name": "spirits of water",
+      "LastSeen": "2023-08-26",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/spirits_of_water.gif"
+    },
+    {
+      "Name": "Splasher",
+      "LastSeen": "2023-08-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Splasher.gif"
+    },
+    {
+      "Name": "Srezz Yellow Eyes",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Srezz_Yellow_Eyes.gif"
+    },
+    {
+      "Name": "Stonecracker",
+      "LastSeen": "2023-08-25",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Stonecracker.gif"
+    },
+    {
+      "Name": "Sulphur Scuttler",
+      "LastSeen": "2023-08-25",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Sulphur_Scuttler.gif"
+    },
+    {
+      "Name": "Svoren the Mad",
+      "LastSeen": "2023-08-28",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Svoren_the_Mad.gif"
+    },
+    {
+      "Name": "Tamru the Black",
+      "LastSeen": "2023-12-15",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Tamru_the_Black.gif"
+    },
+    {
+      "Name": "Tanjis",
+      "LastSeen": "2023-12-22",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Tanjis.gif"
+    },
+    {
+      "Name": "Tarbaz",
+      "LastSeen": "2023-12-18",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Tarbaz.gif"
+    },
+    {
+      "Name": "Tazhadur",
+      "LastSeen": "2023-02-12",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Tazhadur.gif"
+    },
+    {
+      "Name": "Teleskor",
+      "LastSeen": "2023-12-24",
+      "Possibility": 9.1,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Teleskor.gif"
+    },
+    {
+      "Name": "Teneshpar",
+      "LastSeen": "2023-11-25",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Teneshpar.gif"
+    },
+    {
+      "Name": "Tentugly",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Tentugly.gif"
+    },
+    {
+      "Name": "Terofar",
+      "LastSeen": "2023-10-24",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Terofar.gif"
+    },
+    {
+      "Name": "Thaian",
+      "LastSeen": "2023-12-20",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Thaian.gif"
+    },
+    {
+      "Name": "Thalas",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Thalas.gif"
+    },
+    {
+      "Name": "thawing dragon lords",
+      "LastSeen": "2023-10-02",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/thawing_dragon_lords.gif"
+    },
+    {
+      "Name": "The Abomination",
+      "LastSeen": "-",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/The_Abomination.gif"
+    },
+    {
+      "Name": "The Armored Voidborn",
+      "LastSeen": "2023-08-26",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/The_Armored_Voidborn.gif"
+    },
+    {
+      "Name": "The Astral Source",
+      "LastSeen": "2019-06-12",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/The_Astral_Source.gif"
+    },
+    {
+      "Name": "The Axeorcist",
+      "LastSeen": "2023-08-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/The_Axeorcist.gif"
+    },
+    {
+      "Name": "The Baron From Below",
+      "LastSeen": "2023-11-19",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/The_Baron_From_Below.gif"
+    },
+    {
+      "Name": "The Big Bad One",
+      "LastSeen": "2023-12-26",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/The_Big_Bad_One.gif"
+    },
+    {
+      "Name": "The Blazing Rose",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/The_Blazing_Rose.gif"
+    },
+    {
+      "Name": "The Blazing Time Guardian",
+      "LastSeen": "2022-07-16",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/The_Blazing_Time_Guardian.gif"
+    },
+    {
+      "Name": "The Blightfather",
+      "LastSeen": "2023-12-22",
+      "Possibility": 18.18,
+      "ExpectedIn": null,
+      "Url": "images/bosses/The_Blightfather.gif"
+    },
+    {
+      "Name": "The Bloodtusk",
+      "LastSeen": "2023-08-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/The_Bloodtusk.gif"
+    },
+    {
+      "Name": "The Bloodweb",
+      "LastSeen": "2023-08-24",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/The_Bloodweb.gif"
+    },
+    {
+      "Name": "the Brainstealer",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/the_Brainstealer.gif"
+    },
+    {
+      "Name": "The Collector",
+      "LastSeen": "2023-12-18",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/The_Collector.gif"
+    },
+    {
+      "Name": "The Corruptor Of Souls",
+      "LastSeen": "2023-08-16",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/The_Corruptor_Of_Souls.gif"
+    },
+    {
+      "Name": "The Count",
+      "LastSeen": "2023-08-19",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/The_Count.gif"
+    },
+    {
+      "Name": "The Count Of The Core",
+      "LastSeen": "2023-12-21",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/The_Count_Of_The_Core.gif"
+    },
+    {
+      "Name": "The Dark Dancer",
+      "LastSeen": "2023-08-26",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/The_Dark_Dancer.gif"
+    },
+    {
+      "Name": "The Destruction",
+      "LastSeen": "2023-08-28",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/The_Destruction.gif"
+    },
+    {
+      "Name": "The Diamond Blossom",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/The_Diamond_Blossom.gif"
+    },
+    {
+      "Name": "The Distorted Astral Source",
+      "LastSeen": "-",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/The_Distorted_Astral_Source.gif"
+    },
+    {
+      "Name": "The Dread Maiden",
+      "LastSeen": "2023-12-21",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/The_Dread_Maiden.gif"
+    },
+    {
+      "Name": "The Dreadorian",
+      "LastSeen": "2023-08-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/The_Dreadorian.gif"
+    },
+    {
+      "Name": "The Duke Of The Depths",
+      "LastSeen": "2023-12-06",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/The_Duke_Of_The_Depths.gif"
+    },
+    {
+      "Name": "The End Of Days",
+      "LastSeen": "2023-08-28",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/The_End_Of_Days.gif"
+    },
+    {
+      "Name": "the enraged Thorn Knight",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/the_enraged_Thorn_Knight.gif"
+    },
+    {
+      "Name": "The Evil Eye",
+      "LastSeen": "2023-12-26",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/The_Evil_Eye.gif"
+    },
+    {
+      "Name": "The False God",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/The_False_God.gif"
+    },
+    {
+      "Name": "The Fear Feaster",
+      "LastSeen": "2023-12-21",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/The_Fear_Feaster.gif"
+    },
+    {
+      "Name": "The fire empowered Duke",
+      "LastSeen": "2023-02-16",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/The_fire_empowered_Duke.gif"
+    },
+    {
+      "Name": "The First Dragon",
+      "LastSeen": "2023-02-11",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/The_First_Dragon.gif"
+    },
+    {
+      "Name": "The Flaming Orchid",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/The_Flaming_Orchid.gif"
+    },
+    {
+      "Name": "The Freezing Time Guardian",
+      "LastSeen": "2022-06-22",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/The_Freezing_Time_Guardian.gif"
+    },
+    {
+      "Name": "The Frog Prince",
+      "LastSeen": "2023-12-11",
+      "Possibility": 29.54,
+      "ExpectedIn": null,
+      "Url": "images/bosses/The_Frog_Prince.gif"
+    },
+    {
+      "Name": "The Hag",
+      "LastSeen": "2023-08-26",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/The_Hag.gif"
+    },
+    {
+      "Name": "The Hairy One",
+      "LastSeen": "2023-08-26",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/The_Hairy_One.gif"
+    },
+    {
+      "Name": "The Handmaiden",
+      "LastSeen": "2023-12-20",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/The_Handmaiden.gif"
+    },
+    {
+      "Name": "The Horned Fox",
+      "LastSeen": "2023-08-26",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/The_Horned_Fox.gif"
+    },
+    {
+      "Name": "The Hunger",
+      "LastSeen": "2023-08-28",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/The_Hunger.gif"
+    },
+    {
+      "Name": "The Hungerer",
+      "LastSeen": "2023-11-05",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/The_Hungerer.gif"
+    },
+    {
+      "Name": "The Hungry Baron From Below",
+      "LastSeen": "2023-07-16",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/The_Hungry_Baron_From_Below.gif"
+    },
+    {
+      "Name": "The Imperor",
+      "LastSeen": "2023-12-14",
+      "Possibility": 7.38,
+      "ExpectedIn": null,
+      "Url": "images/bosses/The_Imperor.gif"
+    },
+    {
+      "Name": "The Keeper",
+      "LastSeen": "2023-08-26",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/The_Keeper.gif"
+    },
+    {
+      "Name": "The Last Lore Keeper",
+      "LastSeen": "2023-12-14",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/The_Last_Lore_Keeper.gif"
+    },
+    {
+      "Name": "The Lily of Night",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/The_Lily_of_Night.gif"
+    },
+    {
+      "Name": "The Lord of the Lice",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/The_Lord_of_the_Lice.gif"
+    },
+    {
+      "Name": "The Manhunter",
+      "LastSeen": "2023-12-25",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/The_Manhunter.gif"
+    },
+    {
+      "Name": "The Many",
+      "LastSeen": "2023-08-28",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/The_Many.gif"
+    },
+    {
+      "Name": "The Masked Marauder",
+      "LastSeen": "2023-08-28",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/The_Masked_Marauder.gif"
+    },
+    {
+      "Name": "The Mean Masher",
+      "LastSeen": "-",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/The_Mean_Masher.gif"
+    },
+    {
+      "Name": "The Mega Magmaoid",
+      "LastSeen": "2023-12-20",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/The_Mega_Magmaoid.gif"
+    },
+    {
+      "Name": "The Monster",
+      "LastSeen": "2023-08-28",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/The_Monster.gif"
+    },
+    {
+      "Name": "The Moonlight Aster",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/The_Moonlight_Aster.gif"
+    },
+    {
+      "Name": "The Mutated Pumpkin",
+      "LastSeen": "2023-11-03",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/The_Mutated_Pumpkin.gif"
+    },
+    {
+      "Name": "The Nightmare Beast",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/The_Nightmare_Beast.gif"
+    },
+    {
+      "Name": "The Noxious Spawn",
+      "LastSeen": "2023-08-28",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/The_Noxious_Spawn.gif"
+    },
+    {
+      "Name": "The Obliverator",
+      "LastSeen": "2023-08-26",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/The_Obliverator.gif"
+    },
+    {
+      "Name": "The Old Whopper",
+      "LastSeen": "2023-12-15",
+      "Possibility": 8.6,
+      "ExpectedIn": null,
+      "Url": "images/bosses/The_Old_Whopper.gif"
+    },
+    {
+      "Name": "The Old Widow",
+      "LastSeen": "2023-08-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/The_Old_Widow.gif"
+    },
+    {
+      "Name": "The Pale Count",
+      "LastSeen": "2023-12-15",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/The_Pale_Count.gif"
+    },
+    {
+      "Name": "The Pale Worm",
+      "LastSeen": "2023-12-26",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/The_Pale_Worm.gif"
+    },
+    {
+      "Name": "The Pit Lord",
+      "LastSeen": "2023-08-28",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/The_Pit_Lord.gif"
+    },
+    {
+      "Name": "The Plasmother",
+      "LastSeen": "2023-12-03",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/The_Plasmother.gif"
+    },
+    {
+      "Name": "The Rage",
+      "LastSeen": "2023-08-28",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/The_Rage.gif"
+    },
+    {
+      "Name": "The Ravager",
+      "LastSeen": "2023-12-10",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/The_Ravager.gif"
+    },
+    {
+      "Name": "The Remorseless Corruptor",
+      "LastSeen": "-",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/The_Remorseless_Corruptor.gif"
+    },
+    {
+      "Name": "The Sandking",
+      "LastSeen": "2023-12-22",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/The_Sandking.gif"
+    },
+    {
+      "Name": "The Scourge Of Oblivion",
+      "LastSeen": "2023-12-20",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/The_Scourge_Of_Oblivion.gif"
+    },
+    {
+      "Name": "The Shatterer",
+      "LastSeen": "2023-12-24",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/The_Shatterer.gif"
+    },
+    {
+      "Name": "the shielded Thorn Knight",
+      "LastSeen": "2022-06-07",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/the_shielded_Thorn_Knight.gif"
+    },
+    {
+      "Name": "The Sinister Hermit",
+      "LastSeen": "2023-08-19",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/The_Sinister_Hermit.gif"
+    },
+    {
+      "Name": "The Snapper",
+      "LastSeen": "2023-08-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/The_Snapper.gif"
+    },
+    {
+      "Name": "The Souldespoiler",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/The_Souldespoiler.gif"
+    },
+    {
+      "Name": "The Source Of Corruption",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/The_Source_Of_Corruption.gif"
+    },
+    {
+      "Name": "The Spellstealer",
+      "LastSeen": "2023-12-20",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/The_Spellstealer.gif"
+    },
+    {
+      "Name": "The Time Guardian",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/The_Time_Guardian.gif"
+    },
+    {
+      "Name": "The Unarmored Voidborn",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/The_Unarmored_Voidborn.gif"
+    },
+    {
+      "Name": "The Unwelcome",
+      "LastSeen": "2023-12-21",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/The_Unwelcome.gif"
+    },
+    {
+      "Name": "The Voice Of Ruin",
+      "LastSeen": "2023-12-17",
+      "Possibility": 4.36,
+      "ExpectedIn": null,
+      "Url": "images/bosses/The_Voice_Of_Ruin.gif"
+    },
+    {
+      "Name": "The weakened Count",
+      "LastSeen": "2023-08-26",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/The_weakened_Count.gif"
+    },
+    {
+      "Name": "The Welter",
+      "LastSeen": "2023-12-18",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/The_Welter.gif"
+    },
+    {
+      "Name": "The Winter Bloom",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/The_Winter_Bloom.gif"
+    },
+    {
+      "Name": "Thul",
+      "LastSeen": "2023-08-20",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Thul.gif"
+    },
+    {
+      "Name": "Thundergiant",
+      "LastSeen": "2020-11-30",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Thundergiant.gif"
+    },
+    {
+      "Name": "Timira the Many-Headed",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Timira_the_Many-Headed.gif"
+    },
+    {
+      "Name": "Tiquandas Revenge",
+      "LastSeen": "2023-08-28",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Tiquandas_Revenge.gif"
+    },
+    {
+      "Name": "Tirecz",
+      "LastSeen": "2023-08-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Tirecz.gif"
+    },
+    {
+      "Name": "Tormentor",
+      "LastSeen": "2023-08-21",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Tormentor.gif"
+    },
+    {
+      "Name": "Tremorak",
+      "LastSeen": "2023-08-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Tremorak.gif"
+    },
+    {
+      "Name": "Tromphonyte",
+      "LastSeen": "2023-08-28",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Tromphonyte.gif"
+    },
+    {
+      "Name": "Tyrn",
+      "LastSeen": "2023-12-16",
+      "Possibility": 12.6,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Tyrn.gif"
+    },
+    {
+      "Name": "Tzumrah The Dazzler",
+      "LastSeen": "2023-12-25",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Tzumrah_The_Dazzler.gif"
+    },
+    {
+      "Name": "Unaz the Mean",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Unaz_the_Mean.gif"
+    },
+    {
+      "Name": "undead cavebears",
+      "LastSeen": "2023-12-25",
+      "Possibility": 66.73,
+      "ExpectedIn": null,
+      "Url": "images/bosses/undead_cavebears.gif"
+    },
+    {
+      "Name": "Ungreez",
+      "LastSeen": "2023-08-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Ungreez.gif"
+    },
+    {
+      "Name": "Urmahlullu the Immaculate",
+      "LastSeen": "2023-12-25",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Urmahlullu_the_Immaculate.gif"
+    },
+    {
+      "Name": "Urmahlullu the Tamed",
+      "LastSeen": "2022-10-25",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Urmahlullu_the_Tamed.gif"
+    },
+    {
+      "Name": "Urmahlullu the Weakened",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Urmahlullu_the_Weakened.gif"
+    },
+    {
+      "Name": "Ushuriel",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Ushuriel.gif"
+    },
+    {
+      "Name": "Utua Stone Sting",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Utua_Stone_Sting.gif"
+    },
+    {
+      "Name": "Vashresamun",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Vashresamun.gif"
+    },
+    {
+      "Name": "Vemiath",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Vemiath.gif"
+    },
+    {
+      "Name": "Vengar",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Vengar.gif"
+    },
+    {
+      "Name": "Versperoth",
+      "LastSeen": "2023-08-28",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Versperoth.gif"
+    },
+    {
+      "Name": "Vilear",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Vilear.gif"
+    },
+    {
+      "Name": "Vok the Freakish",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Vok_the_Freakish.gif"
+    },
+    {
+      "Name": "Warlord Ruzad",
+      "LastSeen": "2023-12-22",
+      "Possibility": 10.52,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Warlord_Ruzad.gif"
+    },
+    {
+      "Name": "Webster",
+      "LastSeen": "2023-08-28",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Webster.gif"
+    },
+    {
+      "Name": "White Pale",
+      "LastSeen": "2023-12-17",
+      "Possibility": 8.91,
+      "ExpectedIn": null,
+      "Url": "images/bosses/White_Pale.gif"
+    },
+    {
+      "Name": "Wildness of Urmahlullu",
+      "LastSeen": "2023-10-31",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Wildness_of_Urmahlullu.gif"
+    },
+    {
+      "Name": "Willi Wasp",
+      "LastSeen": "2023-12-25",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Willi_Wasp.gif"
+    },
+    {
+      "Name": "Wisdom of Urmahlullu",
+      "LastSeen": "2022-12-17",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Wisdom_of_Urmahlullu.gif"
+    },
+    {
+      "Name": "World Devourer",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/World_Devourer.gif"
+    },
+    {
+      "Name": "Xenia",
+      "LastSeen": "2023-12-25",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Xenia.gif"
+    },
+    {
+      "Name": "Xogixath",
+      "LastSeen": "2023-12-26",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Xogixath.gif"
+    },
+    {
+      "Name": "Yaga The Crone",
+      "LastSeen": "2023-11-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Yaga_The_Crone.gif"
+    },
+    {
+      "Name": "Yakchal",
+      "LastSeen": "2023-12-26",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Yakchal.gif"
+    },
+    {
+      "Name": "Yalaharis",
+      "LastSeen": "2023-08-19",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Yalaharis.gif"
+    },
+    {
+      "Name": "yetis",
+      "LastSeen": "2023-12-15",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/yetis.gif"
+    },
+    {
+      "Name": "Yirkas Blue Scales",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Yirkas_Blue_Scales.gif"
+    },
+    {
+      "Name": "Zamulosh",
+      "LastSeen": "2023-12-25",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Zamulosh.gif"
+    },
+    {
+      "Name": "Zanakeph",
+      "LastSeen": "2023-08-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Zanakeph.gif"
+    },
+    {
+      "Name": "Zarabustor",
+      "LastSeen": "2023-12-04",
+      "Possibility": 24.22,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Zarabustor.gif"
+    },
+    {
+      "Name": "Zarcorix Of Yalahar",
+      "LastSeen": "2018-05-15",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Zarcorix_Of_Yalahar.gif"
+    },
+    {
+      "Name": "Zavarash",
+      "LastSeen": "2023-12-01",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Zavarash.gif"
+    },
+    {
+      "Name": "Zevelon Duskbringer",
+      "LastSeen": "2023-12-21",
+      "Possibility": 27.44,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Zevelon_Duskbringer.gif"
+    },
+    {
+      "Name": "Zomba",
+      "LastSeen": "2023-12-21",
+      "Possibility": 39.39,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Zomba.gif"
+    },
+    {
+      "Name": "Zorvorax",
+      "LastSeen": "2023-02-12",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Zorvorax.gif"
+    },
+    {
+      "Name": "Zugurosh",
+      "LastSeen": "2023-12-27",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Zugurosh.gif"
+    },
+    {
+      "Name": "Zulazza the Corruptor",
+      "LastSeen": "2023-12-20",
+      "Possibility": 8.46,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Zulazza_the_Corruptor.gif"
+    },
+    {
+      "Name": "Zushuka",
+      "LastSeen": "2023-12-24",
+      "Possibility": 0,
+      "ExpectedIn": null,
+      "Url": "images/bosses/Zushuka.gif"
+    }
+  ]
+}
